@@ -38,4 +38,9 @@ aerospace systems.
 
     ![GUI](Images/gui.png)
 ## Usage
-Download the source code and locate the `Main` class. Compile and run the program, then select one of the files from the paths folder to generate the desired number of paths.
+
+1. Download or clone the repository.
+2. Locate the `Main` class in the source code.
+3. Compile and run the program.
+4. Select one of the files from the `paths` folder or specify the number of paths to generate.
+5. Use the GUI to visualize paths and compute distances between them.
